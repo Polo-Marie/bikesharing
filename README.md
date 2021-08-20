@@ -1,5 +1,5 @@
-# bikesharing
-Bike Sharing in Des Moines!
+# Bikesharing
+Bikesharing in Des Moines!
 
 ## Introduction
 This analysis will focus on bike activity and will be broken up into the following parts:
