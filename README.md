@@ -62,13 +62,13 @@ In regards to who use the bikes more, not only do males use the bikes more, but 
 ## Summary/Conclusion:
 In summary, we are proving that there can be a demand for our services here in Des Moines. As we promote subscribing and we keep bikes available for use, people will keep riding. As we can see in our "Checkout Times for Users" diagram, as bikes become more available as both a cost efficient and liesurely experience of commuting, more and more people will take advantage of this service. Not only this, but also we have shown that there is efficiency with maintaining this dynamic business model along the way through efficient monitoring of bike usages for repairs and maintenance to keep our bicycles on the road. The following diagrams show this information:
 
-- Bike Repairs
+### Bike Repairs
 Looking at the diagram below, we can see what bike ids are being the most utilized so that we can zoom in on which ids will need priority for bike repairs. Based on the diagram, the bikes of the 25k 35k and 38k to 40k ids will need repairs far more often than others based on the trip duration count.
 
 ![](Photos/Bike_Repairs.png)
 
-- Bike Utilization
-And finally, this diagram not only shows the bike ids in chronological order by color, but it shows how many trips are taken with that bike id via size of the bubble, and the number of bikes are given in that tab. Basically, this diagram provides the best information for managing repairs because you know how many bikes belong to the particular bike id, and how often they are being used, hinting that they will need more frequent servicing. This diagram also can easily point out where mor ebikes are needed, or possibly even what bike styles are most preferred (if there are various styles availble for use). 
+### Bike Utilization
+And finally, this diagram not only shows the bike ids in chronological order by color, but it shows how many trips are taken with that bike id via size of the bubble, and the number of bikes are given in that tab. Basically, this diagram provides the best information for managing repairs because you know how many bikes belong to the particular bike id, and how often they are being used, hinting that they will need more frequent servicing. This diagram also can easily point out where more bikes are needed, or possibly even what bike styles are most preferred (if there are various styles availble for use). 
 
 ![](Photos/Bike_Utilization.png)
 
