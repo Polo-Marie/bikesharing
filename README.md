@@ -48,7 +48,7 @@ In this view, we can easily see that the bikes are mostly utilized on the way to
 
 
 ### Trips by Gender by Weekday per Hour
-Observing this heatmap, both genders utilize the bikes primarily on weekdays, early mornings and evenings, but evenings are the most utilized times overall. This could suggest that in the evenings these bikes are sed both for workday commutes, errands, liesure, and exercise. Men still dominate the usage overall over women. 
+Observing this heatmap, both genders utilize the bikes primarily on weekdays, early mornings and evenings, but evenings are the most utilized times overall. This could suggest that in the evenings these bikes are used both for workday commutes, errands, liesure, and exercise. Men still dominate the usage overall over women. 
 
 ![](Photos/Trips_by_Gender_WkD_Hr.png)
 
